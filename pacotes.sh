@@ -10,7 +10,7 @@ yum install -y sysstat
 yum install -y xorg-x11-utils
 yum install -y libnsl
 yum install -y java-11-openjdk-devel
-rpm -ivh libaio-devel-0.3.110-12.el8.x86_64.rpm
+rpm -ivh libaio-devel-0.3.112-1.el8.x86_64.rpm
 rpm -ivh compat-libstdc++-33-3.2.3-72.el7.x86_64.rpm
 rpm -ivh compat-libcap1-1.10-7.el7.x86_64.rpm
 yum install -y xorg-x11-xauth
